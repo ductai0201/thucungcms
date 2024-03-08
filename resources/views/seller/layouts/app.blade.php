@@ -30,8 +30,6 @@
     <style>
         body {
             font-size: 12px;
-            font-family: 'Helvetica', sans-serif;
-
         }
         #map{
             width: 100%;
